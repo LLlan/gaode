@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">gaode</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="but_1">GPS</string>
+    <string name="but_22">网络定位</string>
+    <string name="but_2">地图覆盖</string>
+    <string name="title_activity_los_1">Los_1Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_los2">Los2Activity</string>
+    <string name="title_activity_los3">Los3Activity</string>
+    <string name="tex_1">GPS定位</string>
+    <string name="tex_2">定位的详细信息</string>
+    <string name="tex_3">网络覆盖</string>
+    <string name="tex_4">地图覆盖</string>
+
+</resources>
